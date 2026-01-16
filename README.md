@@ -69,4 +69,15 @@ The model can be used by banks to:
 ---
 
 ## 📁 Project Structure
+Financial-Risk-Scoring-Model
+│
+├── notebook.ipynb
+├── loan_default.csv
+├── loan_risk_model.pkl
+├── scaler.pkl
+├── README.md
+
+---
+
+
 
